@@ -1,0 +1,17 @@
+{
+  "name": "inferno-app-rewire-less",
+  "version": "1.4.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "less": "^2.7.3",
+    "less-loader": "^4.0.5"
+  },
+  "peerDependencies": {
+    "inferno-app-rewired": "^1.4.1"
+  }
+}
